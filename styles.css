@@ -13,7 +13,7 @@ body{
     background-color: rgb(245, 245, 245);
 } */
 .box {
-    width: 100%;
+    width: 1440px;
     height: 100%;
     background-color: rgb(245, 245, 245);
     display: flex;
@@ -155,4 +155,10 @@ a:hover{
     font-size: 18px;
     font-weight: 900;
     display: none;
+}
+@media(max-width :860 ){
+.box {
+    width:860px;
+    }
+    
 }
