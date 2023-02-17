@@ -156,9 +156,9 @@ a:hover{
     font-weight: 900;
     display: none;
 }
-@media(max-width :860 ){
+@media(max-width :860px ){
 .box {
-    width:860px;
+    width:800px;
     }
     
 }
